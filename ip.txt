@@ -1,0 +1,37 @@
+#--** Location **--->>  bhuj
+
+#--** DAMAGE ASSESSMENT **--# 
+ 				    << SIMILIRATY :: 89.14701643990296 >>
+-> DEATH    :: 20023.0
+-> INJURED  :: 166800.0
+ 
+ #--** RESOURCE ESTIMATION **--# 
+
+ **-- HUMANITARIAN ASSISTANCE --**
+ ** Material Required ** :
+
+ Blankets        :: 106000.0  ||   Durries         :: 8000.0
+ Tents           :: 550.0   ||   Plastic_Sheets  :: 1040.0
+ Petrol          :: 452.0   ||   Match_Box       :: 5000.0
+ Dal             :: 200.0  ||   Rice            :: 400.0
+
+ #--** MEDICAL SET REQUIRED **--#
+
+ Health_Centres  :: 25.0    ||   Hospitals       :: 410.0
+ Bandages        :: 550.0  ||   Doctors         :: 550.0
+
+ #--** SEARCH and RESCUE **--#
+
+  ** Relief Equipment Required **:
+
+ Kerosene        :: 5719.0  ||   Cranes          :: 831.0
+ Bulldozers      :: 10.0    ||   Loaders         :: 2679.0
+ Ambulances      :: 112.0  ||   Gascutters      :: 614.0
+ Helicopters     :: 8.0
+
+ #--** SEARCH and RESCUE **--# 
+ ** Rescue Team Required **:
+
+ SRPF            :: 1544.0  ||   CRPF            :: 11.0
+ CISF            :: 9.0  ||   RAF             :: 4.0
+ Police          :: 3000.0
